@@ -1,4 +1,1 @@
-npx --no-install commitlint --edit \
-chmod
-+x
-.husky/commit-msg
+npx --no-install commitlint --edit $1
